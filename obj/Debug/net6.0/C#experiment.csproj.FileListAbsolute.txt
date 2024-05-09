@@ -1,0 +1,15 @@
+C:\Users\usera\C# program\bin\Debug\net6.0\C#experiment.exe
+C:\Users\usera\C# program\bin\Debug\net6.0\C#experiment.deps.json
+C:\Users\usera\C# program\bin\Debug\net6.0\C#experiment.runtimeconfig.json
+C:\Users\usera\C# program\bin\Debug\net6.0\C#experiment.dll
+C:\Users\usera\C# program\bin\Debug\net6.0\C#experiment.pdb
+C:\Users\usera\C# program\obj\Debug\net6.0\C#experiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usera\C# program\obj\Debug\net6.0\C#experiment.AssemblyInfoInputs.cache
+C:\Users\usera\C# program\obj\Debug\net6.0\C#experiment.AssemblyInfo.cs
+C:\Users\usera\C# program\obj\Debug\net6.0\C#experiment.csproj.CoreCompileInputs.cache
+C:\Users\usera\C# program\obj\Debug\net6.0\C#experiment.sourcelink.json
+C:\Users\usera\C# program\obj\Debug\net6.0\C#experiment.dll
+C:\Users\usera\C# program\obj\Debug\net6.0\refint\C#experiment.dll
+C:\Users\usera\C# program\obj\Debug\net6.0\C#experiment.pdb
+C:\Users\usera\C# program\obj\Debug\net6.0\C#experiment.genruntimeconfig.cache
+C:\Users\usera\C# program\obj\Debug\net6.0\ref\C#experiment.dll

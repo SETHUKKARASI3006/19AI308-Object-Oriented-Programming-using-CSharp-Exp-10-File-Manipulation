@@ -1,0 +1,45 @@
+C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\bin\Debug\net6.0\Exp04-Jagged-Array.exe
+C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\bin\Debug\net6.0\Exp04-Jagged-Array.deps.json
+C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\bin\Debug\net6.0\Exp04-Jagged-Array.runtimeconfig.json
+C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\bin\Debug\net6.0\Exp04-Jagged-Array.dll
+C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\bin\Debug\net6.0\Exp04-Jagged-Array.pdb
+C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.csproj.AssemblyReference.cache
+C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.AssemblyInfoInputs.cache
+C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.AssemblyInfo.cs
+C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.csproj.CoreCompileInputs.cache
+C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.dll
+C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\obj\Debug\net6.0\refint\Exp04-Jagged-Array.dll
+C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.pdb
+C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.genruntimeconfig.cache
+C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\obj\Debug\net6.0\ref\Exp04-Jagged-Array.dll
+C:\Users\usera\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usera\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.AssemblyInfoInputs.cache
+C:\Users\usera\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.AssemblyInfo.cs
+C:\Users\usera\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.csproj.CoreCompileInputs.cache
+C:\Users\usera\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.sourcelink.json
+C:\Users\usera\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.dll
+C:\Users\usera\Exp04-Jagged-Array\obj\Debug\net6.0\refint\Exp04-Jagged-Array.dll
+C:\Users\usera\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.pdb
+C:\Users\usera\Exp04-Jagged-Array\bin\Debug\net6.0\Exp04-Jagged-Array.exe
+C:\Users\usera\Exp04-Jagged-Array\bin\Debug\net6.0\Exp04-Jagged-Array.deps.json
+C:\Users\usera\Exp04-Jagged-Array\bin\Debug\net6.0\Exp04-Jagged-Array.runtimeconfig.json
+C:\Users\usera\Exp04-Jagged-Array\bin\Debug\net6.0\Exp04-Jagged-Array.dll
+C:\Users\usera\Exp04-Jagged-Array\bin\Debug\net6.0\Exp04-Jagged-Array.pdb
+C:\Users\usera\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.genruntimeconfig.cache
+C:\Users\usera\Exp04-Jagged-Array\obj\Debug\net6.0\ref\Exp04-Jagged-Array.dll
+C:\Users\usera\C# program\bin\Debug\net6.0\Exp04-Jagged-Array.exe
+C:\Users\usera\C# program\bin\Debug\net6.0\Exp04-Jagged-Array.deps.json
+C:\Users\usera\C# program\bin\Debug\net6.0\Exp04-Jagged-Array.runtimeconfig.json
+C:\Users\usera\C# program\bin\Debug\net6.0\Exp04-Jagged-Array.dll
+C:\Users\usera\C# program\bin\Debug\net6.0\Exp04-Jagged-Array.pdb
+C:\Users\usera\C# program\obj\Debug\net6.0\Exp04-Jagged-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usera\C# program\obj\Debug\net6.0\Exp04-Jagged-Array.AssemblyInfoInputs.cache
+C:\Users\usera\C# program\obj\Debug\net6.0\Exp04-Jagged-Array.AssemblyInfo.cs
+C:\Users\usera\C# program\obj\Debug\net6.0\Exp04-Jagged-Array.csproj.CoreCompileInputs.cache
+C:\Users\usera\C# program\obj\Debug\net6.0\Exp04-Jagged-Array.sourcelink.json
+C:\Users\usera\C# program\obj\Debug\net6.0\Exp04-Jagged-Array.dll
+C:\Users\usera\C# program\obj\Debug\net6.0\refint\Exp04-Jagged-Array.dll
+C:\Users\usera\C# program\obj\Debug\net6.0\Exp04-Jagged-Array.pdb
+C:\Users\usera\C# program\obj\Debug\net6.0\Exp04-Jagged-Array.genruntimeconfig.cache
+C:\Users\usera\C# program\obj\Debug\net6.0\ref\Exp04-Jagged-Array.dll
