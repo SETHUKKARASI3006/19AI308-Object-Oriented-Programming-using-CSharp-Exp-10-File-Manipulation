@@ -26,7 +26,7 @@ Iterate through player array, writing each player's details to the file.
 Close the StreamWriter, then display the contents of the file to the user.
 
 # PROGRAM:
-Developed By:SETHUKKARASI C
+Developed By:SETHUKKARASI C<br>
 Register Number:212223230201
 
 ```
